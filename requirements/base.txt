@@ -1,0 +1,6 @@
+django==1.9.7
+psycopg2==2.6.1
+django-extensions==1.6.7
+ipython==4.0.3
+ipdb==0.10.1
+django-tagging==0.4.3
